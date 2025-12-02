@@ -15,8 +15,8 @@
  */
 
 export const API_BASE_URL = 'https://api.licor.cloud/v1/data';
-const API_TOKEN = 'Qusbg0xxJiemcgg710W4d08NQmnQ9IHGwRjYg2z6hJ3m3qXM'; // Your token from LI-COR Cloud
-const LOGGER_SN = '22429142'; // HOBO RX3000 logger serial number
+const API_TOKEN = 'YOUR_API_KEY'; // Your token from LI-COR Cloud
+const LOGGER_SN = 'YOUR_LOGGER_SERAIL_NUMBER'; // HOBO RX3000 logger serial number
 
 /**
  * Fetch weather data from LI-COR Cloud API v1
