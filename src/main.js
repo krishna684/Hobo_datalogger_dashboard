@@ -1,8 +1,8 @@
 // main.js - Non-module version for file:// protocol
 // API service - LI-COR Cloud / HOBOlink API Configuration
 const API_BASE_URL = 'https://api.licor.cloud/v1/data'; // LI-COR Cloud API endpoint
-const API_TOKEN = 'Qusbg0xxJiemcgg710W4d08NQmnQ9IHGwRjYg2z6hJ3m3qXM'; // Your API token from LI-COR Cloud
-const DEVICE_ID = '22429142'; // HOBO RX3000 Weather Station - Columbia, MO
+const API_TOKEN = 'YOUR_API_KEY'; // Your API token from LI-COR Cloud
+const DEVICE_ID = 'YOUR_DEVICE_SERIAL_NUMBER'; // HOBO RX3000 Weather Station - Columbia, MO
 
 // Field mapping from API response to dashboard variables
 // Matches the actual sensor names from your HOBO RX3000
