@@ -196,8 +196,9 @@ This is a custom dashboard built for HOBO weather station monitoring. Feel free 
 
 ## 📍 Station Info
 
-HOBO RX3000 | Serial: 22429142 | Location: Weather1-Columbia-MO
+HOBO RX3000 | Serial: ******* | Location: Weather1-*****
 
 Notes:
 - The LI-COR API may block browser requests or rate limit — consider hosting or using a proxy server if you plan to deploy this publicly.
 - Follow API_SETUP.md to connect to your real weather station and ensure the API returns JSON with ISO8601 timestamps and the required sensor measurements.
+
